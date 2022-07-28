@@ -1,0 +1,1 @@
+GET http://localhost:5000/createAccount?name=Harsh&pin=4593&phone=8010178212&email=nikita.chauhan93@gmail.com
